@@ -1,0 +1,12 @@
+{
+  "name": "socket",
+  "displayName": "socket",
+  "expo": {
+    "name": "socket",
+    "slug": "socket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
